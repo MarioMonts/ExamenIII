@@ -1,0 +1,3 @@
+﻿  ExamenIII.cpp
+C:\Users\ALUMNOS\Documents\Mario Montes\ProgramacionII\ExamenIII\ExamenIII.cpp(55,21): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+  ExamenIII.vcxproj -> C:\Users\ALUMNOS\Documents\Mario Montes\ProgramacionII\ExamenIII\Debug\ExamenIII.exe

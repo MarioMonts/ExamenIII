@@ -1,0 +1,14 @@
+﻿'ExamenIII.exe' (Win32): 'C:\Users\ALUMNOS\Documents\Mario Montes\ProgramacionII\ExamenIII\Debug\ExamenIII.exe' cargado. Símbolos cargados.
+'ExamenIII.exe' (Win32): 'C:\Windows\SysWOW64\ntdll.dll' cargado. 
+'ExamenIII.exe' (Win32): 'C:\Windows\SysWOW64\kernel32.dll' cargado. 
+'ExamenIII.exe' (Win32): 'C:\Windows\SysWOW64\KernelBase.dll' cargado. 
+'ExamenIII.exe' (Win32): 'C:\Windows\SysWOW64\msvcp140d.dll' cargado. 
+'ExamenIII.exe' (Win32): 'C:\Windows\SysWOW64\vcruntime140d.dll' cargado. 
+'ExamenIII.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbased.dll' cargado. 
+El subproceso 0x3dd4 terminó con código 0 (0x0).
+'ExamenIII.exe' (Win32): 'C:\Windows\SysWOW64\kernel.appcore.dll' cargado. 
+'ExamenIII.exe' (Win32): 'C:\Windows\SysWOW64\msvcrt.dll' cargado. 
+'ExamenIII.exe' (Win32): 'C:\Windows\SysWOW64\rpcrt4.dll' cargado. 
+El subproceso 0x1020 terminó con código 0 (0x0).
+El subproceso 0x4d14 terminó con código 0 (0x0).
+El programa '[11504] ExamenIII.exe' terminó con código 0 (0x0).
